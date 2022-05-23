@@ -12,6 +12,8 @@ Analysis is perfomed using
 1. SQL - where basic queries are provided
 2. Tableau - where the data is visualized and the solution is generated.
 
+Database Dump is present in the above file. DB_TABLES_DUMP.sql file needs to be downloaded and needs to be exported into the Database.
+
 
 ## Data Analysis using SQL
 
