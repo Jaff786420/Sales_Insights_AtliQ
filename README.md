@@ -56,3 +56,12 @@ A. SELECT SUM(transactions.sales_amount) FROM transactions INNER JOIN date ON tr
 ## Data Analysis using Tableau
 
 Tableau Link: https://public.tableau.com/app/profile/mohamed.jaffar/viz/SalesInsightsofAtliQCompany/Dashboard-RevenueAnalysis
+
+
+## Solution
+
+From our Analysis, we can suggest that:
+1. Regions having the Top Customers, they need to maintain the same pace to keep the customers by providing certain Discounts and better product quality.
+2. More Advertisements can be done done in those regions which are having less revenue so that those set of regions will know about the products.
+3. Better packaging can be another factor to attract Customers.
+4. Differences can be checked between 2018 and 2020 as 2018 Sales and Revenue were at peak nd can try to find out what went wrong.
